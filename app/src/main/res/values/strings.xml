@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Button</string>
+
+
+    <!--Header Text for list of toppings[CHAR LIMIT=20]-->
+    <string name="toppings">Toppings</string>
+
+    <!--Thank you message for the order summary[CHAR LIMIT=NONE]-->
+    <string name="thank_you">Thank you!</string>
+    <string name="title_activity_basic">Basic</string>
+
+
+</resources>
